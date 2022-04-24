@@ -4,7 +4,7 @@ TIA Portal project from the tutorial YouTube video: "enter link here"
 
 In this project I want to show how to use KUKA.PLC mxAutomation in combination with a Siemens S7-1500 PLC.
 
-
+![myKRC_Dashboard_TutorialThumbnail](https://github.com/plcbauer/TIA_Project_myKRC_Dashboard/blob/main/docs/myKRC_Dashboard_TutorialThumbnail.png)
 
 
 ## Technical Details
