@@ -1,4 +1,4 @@
-# TIA_Project_myKRC_Dashboard
+# TIA_Project_myKRC_Playground
 
 TIA Portal project from the tutorial YouTube video: "enter link here"
 
